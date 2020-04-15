@@ -1,12 +1,8 @@
-const button = document.querySelector(".appear");
-const menu = document.querySelector("#menu");
-
-
-button.addEventListener("mouseenter", function(event){
-    event.style.display = "block";
-});
-
-
-
-
-
+function show_menu(){
+    var x=document.getElementById("menu");
+    x.style.display = "block";
+}
+function hide_menu(){
+    var x=document.getElementById("menu");
+    x.style.display = "none";
+}
