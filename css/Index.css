@@ -4,6 +4,7 @@ a{
 }
 body{
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .logo:hover{
     opacity: 1;
