@@ -1,0 +1,30 @@
+a{
+    text-decoration: none;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu_bar{
+    border: 1px solid black;
+    height: 6rem;
+    width: 80rem;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.logo:hover{
+    opacity: 1;
+}
+.logo{
+    height: 90px;
+    width: 140px;
+    opacity: 0.5;
+    margin-left: 25rem;
+}
+.menu_1{
+    color: white;
+    font-family: Gungsuh;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-left: 2rem;
+}
