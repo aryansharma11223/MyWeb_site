@@ -6,12 +6,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover
 }
-.Index_Section{
-    background: url("Images\Index_Background.jpg");
-    background-size: cover;
-    border: 1px solid black;
-    margin-top: -8px;
-}
 .logo:hover{
     opacity: 1;
 }
@@ -23,7 +17,7 @@ body{
 }
 .menu_bar{
     height: 20rem;
-    width: 10rem;
+    width: 11rem;
     margin-left: -8px;
 }
 .arrow{

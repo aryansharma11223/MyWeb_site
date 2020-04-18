@@ -1,13 +1,14 @@
 a{
+    color: white;
     text-decoration: none;
 }
 body{
-    background-size: cover;
     background-repeat: no-repeat;
 }
 .menu_bar{
+    position: fixed;
     border: 1px solid black;
-    height: 6rem;
+    height: 4rem;
     width: 80rem;
     margin-left: -8px;
     margin-top: -8px;
@@ -19,12 +20,25 @@ body{
     height: 90px;
     width: 140px;
     opacity: 0.5;
-    margin-left: 25rem;
+    margin-left: 5rem;
 }
-.menu_1{
-    color: white;
-    font-family: Gungsuh;
-    font-weight: bolder;
+.index_1{
     font-size: xx-large;
-    margin-left: 2rem;
+    font-family: serif;
+    margin-left: 5rem;
+}
+.index_2{
+    font-size: xx-large;
+    font-family: serif;
+    margin-left: 5rem;
+}
+.index_3{
+    font-size: xx-large;
+    font-family: serif;
+    margin-left: 5rem;
+}
+.index_4{
+    font-size: xx-large;
+    font-family: serif;
+    margin-left: 5rem;
 }
