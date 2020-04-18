@@ -7,8 +7,8 @@ function hide_menu(){
     x.style.display = "none";
 }
 function hide_arrow(){
-    document.getElementById("arrow1").style.opacity = "-1";
+    document.getElementById("arrow1").style.visibility = 'hidden';
 }
 function show_arrow(){
-    document.getElementById("arrow1").style.opacity = "1";
+    document.getElementById("arrow1").style.visibility = 'visible';
 }
