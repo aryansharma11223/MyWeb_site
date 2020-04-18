@@ -8,7 +8,6 @@ body{
 }
 .menu_bar{
     position: fixed;
-    border: 1px solid yellow;
     height: 4rem;
     width: 80rem;
     margin-left: -8px;
@@ -21,7 +20,13 @@ body{
     height: 90px;
     width: 140px;
     opacity: 0.5;
-    margin-left: 5rem;
+}
+.first_half_menu_bar{
+    border: 1px solid black;
+    height: 4rem;
+    width: 35rem;
+    margin-top: -8px;
+    margin-left: -8px;
 }
 .index_1{
     font-size: xx-large;
