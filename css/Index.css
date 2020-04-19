@@ -45,8 +45,10 @@ a{
     opacity: 0.5;
 }
 p:hover{
-    text-shadow: 2px 2px 2px black;
+    text-shadow: 2px 2px 2px yellowgreen;
 }
 .main{
-    background-image: url("Images\Index_Background.jpg");
+    border: 1px solid white;
+    background-color: black;
+
 }
