@@ -7,12 +7,16 @@ a{
 }
 .logo:hover{
     opacity: 1;
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
 }
 .logo{
     height: 90px;
     width: 140px;
     margin-left: 70rem;
     opacity: 0.5;
+    transition: transform .2s;
 }
 .menu_bar{
     height: 20rem;
